@@ -32,7 +32,8 @@ For Windows:
 #### Step 2: Open Oracle VM VirtualBox
     1. Launch VirtualBox on your computer.
     
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f49e1f29-461b-429a-977e-ae1ec08c6ba4" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/248a1506-be3d-4f3f-868c-7a68b83e364a" />
+
 
 #### Step 3: Create a New Virtual Machine
     1. In VirtualBox, click on the New button to create a new virtual machine.
@@ -68,7 +69,8 @@ For Windows:
 #### Step 10: Start the Virtual Machine
     1. In VirtualBox, click Start to boot up your Kali Linux virtual machine.
     
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd7412bb-31e8-4151-b0db-c2ba61ffacef" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/7dd19eb5-2074-486b-b106-0c7ad2b17b22" />
+
 
 
 #### Step 11: Begin Kali Linux Installation
