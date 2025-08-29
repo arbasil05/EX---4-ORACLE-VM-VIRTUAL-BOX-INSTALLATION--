@@ -103,7 +103,8 @@ For Windows:
 
 ## EXPECTED OUTPUT
 
-<img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/b2ba7a96-dbc4-45fb-8bc4-155aa16e4a38" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/6621a4fb-5ef6-4361-93ad-bac470796db5" />
+
 
 # .sh method
 
