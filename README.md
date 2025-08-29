@@ -112,12 +112,14 @@ For Windows:
 
 ## PROGRAM
 
-`nano add.sh`
-<img width="754" height="328" alt="image" src="https://github.com/user-attachments/assets/5fb0f871-b9b3-4cd7-b0b2-c0340482b091" />
+`cat add.sh`
+<img width="394" height="200" alt="image" src="https://github.com/user-attachments/assets/97f9407c-07f7-48bf-a75f-b86f86474677" />
+
 
 ## EXPECTED OUTPUT
 
-<img width="503" height="267" alt="image" src="https://github.com/user-attachments/assets/efac99ea-cd15-4344-9b6f-6ac6166e37d0" />
+<img width="316" height="125" alt="image" src="https://github.com/user-attachments/assets/c91d9f79-5503-4963-b032-454739bd1f3b" />
+
 
 ## CHMOD METHOD
 
