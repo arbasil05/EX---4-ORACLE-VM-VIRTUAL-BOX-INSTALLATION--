@@ -111,7 +111,7 @@ For Windows:
 # .sh method
 
 ## PROGRAM
-**cat add.sh**
+#### Shell script to add two numbers:
 <img width="394" height="200" alt="image" src="https://github.com/user-attachments/assets/97f9407c-07f7-48bf-a75f-b86f86474677" />
 
 
