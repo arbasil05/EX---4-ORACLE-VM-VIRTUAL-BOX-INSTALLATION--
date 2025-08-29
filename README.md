@@ -122,7 +122,8 @@ For Windows:
 
 ## CHMOD METHOD
 
-<img width="903" height="126" alt="image" src="https://github.com/user-attachments/assets/62594d26-7758-4ea5-962f-433681d87a7c" />
+<img width="653" height="73" alt="image" src="https://github.com/user-attachments/assets/ab44ae0d-b099-4243-9781-a3f2cf66faa2" />
+
 
 # TERMINAL METHOD
 
