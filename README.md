@@ -127,11 +127,13 @@ For Windows:
 
 # TERMINAL METHOD
 
-<img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/7f169adc-5e13-41e4-b700-41ed762642f2" />
+<img width="422" height="315" alt="image" src="https://github.com/user-attachments/assets/163b9524-1f02-44cf-aa9c-949b96c586b6" />
+
 
 ## LINUX COMMANDS
 
-<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/cdba70ef-54c7-42f2-9894-801d7438ae0f" />
+<img width="973" height="375" alt="image" src="https://github.com/user-attachments/assets/2c7dd84a-5ce3-4fc5-b470-1c144f2d1e0c" />
+
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
